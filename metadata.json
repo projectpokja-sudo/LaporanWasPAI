@@ -1,0 +1,6 @@
+{
+  "name": "GENERATOR LAPORAN PEMBINAAN PENGAWAS PAI",
+  "description": "Asisten Cerdas Pengawasan Akademik Guru PAI dan Budi Pekerti. Aplikasi berbasis AI untuk menyusun dokumen Laporan Pembinaan Pengawas PAI terstruktur dan profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
